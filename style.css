@@ -1,0 +1,104 @@
+/*--= STRUCTURE =--*/
+
+body {
+  background-color: #FFFFFF;
+}
+
+/*--= HEADER, DIVS & GENERAL =--*/
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+}
+
+h4 {
+  font-family: Arial, Helvetica, sans-serif;;
+  font-size: 20px;
+}
+
+footer {
+  background-color: dimgrey;
+  margin: 200px 0 0 0;
+  padding: 20px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+hr {
+  height: 1px;
+  background-color: dimgrey;
+}
+
+nav {
+  background-color: dimgrey;
+  font-size: 24px;
+}
+
+header {
+  background-color: dimgrey;
+  font-color: #FFFFFF;
+  padding: 10px 20px 20px 20px;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-color: dimgrey;
+  font-size: 18px;
+}
+
+ul {
+  font-family: 'Times New Roman', Times, serif;
+  font-color: dimgrey;
+  font-size: 18px;
+}
+
+ol {
+  font-family: 'Times New Roman', Times, serif;
+  font-color: dimgrey;
+  font-size: 18px;
+}
+
+/*--= LINK STYLES --=*/
+
+a:link {
+  color: #000000;
+}
+
+a:hover {
+  color: firebrick;
+}
+
+a:visited {
+  color: firebrick;
+}
+
+a:active {
+  color: #FFFFFF;
+}
+
+/*--= CLASSES --=*/
+
+.align-right {
+    text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
